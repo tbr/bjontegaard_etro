@@ -21,8 +21,8 @@ Tim Bruylants, ETRO, Vrije Universiteit Brussel
 
 This code was originally developed as part of the following publication:
 
-Tim Bruylants, Adrian Munteanu, Peter Schelkens, Wavelet based volumetric medical image compression, Signal Processing: Image Communication, Volume 31, February 2015, Pages 112-133, ISSN 0923-5965, http://dx.doi.org/10.1016/j.image.2014.12.007.
-[http://www.sciencedirect.com/science/article/pii/S0923596514001854](http://www.sciencedirect.com/science/article/pii/S0923596514001854)
+	Tim Bruylants, Adrian Munteanu, Peter Schelkens, Wavelet based volumetric medical image compression, Signal Processing: Image Communication, Volume 31, February 2015, Pages 112-133, ISSN 0923-5965, http://dx.doi.org/10.1016/j.image.2014.12.007.
+	Open access URL: http://www.sciencedirect.com/science/article/pii/S0923596514001854
 		
 ##References:
 
