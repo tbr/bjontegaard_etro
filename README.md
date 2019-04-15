@@ -15,7 +15,7 @@ These functions are provided in two versions (both containing the exact same VBA
 
 1. __bjontegaard_etro.xla__ is an Excel Add-In. By adding this on your system (via Excel Add-In preferences), the two functions become globally available in your Excel install.
 
-##Author:
+## Author:
 
 Tim Bruylants, ETRO, Vrije Universiteit Brussel
 
@@ -24,7 +24,7 @@ This code was originally developed as part of the following publication:
 	Tim Bruylants, Adrian Munteanu, Peter Schelkens, Wavelet based volumetric medical image compression, Signal Processing: Image Communication, Volume 31, February 2015, Pages 112-133, ISSN 0923-5965, http://dx.doi.org/10.1016/j.image.2014.12.007.
 	Open access URL: http://www.sciencedirect.com/science/article/pii/S0923596514001854
 		
-##References:
+## References:
 
 	[1] G. Bjontegaard, Calculation of average PSNR differences between RD-curves (VCEG-M33)
 	[2] S. Pateux, J. Jung, An excel add-in for computing Bjontegaard metric and its evolution
